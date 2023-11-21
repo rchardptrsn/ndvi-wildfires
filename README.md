@@ -1,7 +1,5 @@
 # ndvi-wildfires
-Downloads MODIS NDVI data using Google Earth Engine
-
-Collect NDVI data for every US wildfire in 2022 using Python and Google Earth Engine
+Downloads MODIS NDVI data for every US wildfire in 2022 using Python and Google Earth Engine
 
 ## What is NDVI?
 NDVI stands for Normalized Difference Vegetation Index and is a metric for analyzing the amount of green-ness that exists in an area. It can be calculated from bands of light available in satellite images. The color green is visible from Near Infra-Red (NIR) bands and this is used to create a ratio of vegetation versus Red (R) light that is described in the below calculation:
